@@ -1,0 +1,12 @@
+{
+  "name": "js_homeworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anastasia Vereshchaka <doitinyourownway.f@gmail.com>",
+  "license": "ISC"
+}
